@@ -1,0 +1,2 @@
+ $('#table_data th:nth-child(10),#table_data td:nth-child(10)').remove();
+ $('#lblLibraryStaffGiftReturn').hide();
